@@ -2,10 +2,15 @@
 Notes for Salesforce Advanced Admin certification prep
 
 Trailmix: https://trailhead.salesforce.com/en/users/strailhead/trailmixes/prepare-for-your-salesforce-advanced-administrator-credential
+
 Superbadge: https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation
+
 Superbadge: https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge-lex-rd
+
 Superbadge: https://trailhead.salesforce.com/content/learn/superbadges/superbadge_business_specialist
+
 Superbadge: https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_lex_rollout
+
 Superbadge: https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_security
 
 Target Audience for exam: individuals who have expertise as a seasoned Salesforce Administrator. "The program encompasses the breadth of applications, the features and functions available to an end user, and the advanced configuration, management, and application extending options available to an Administrator across the Sales Cloud, Service Cloud, and Salesforce Chatter applications".
