@@ -5,3 +5,10 @@ Modules included are:
 * Enhanced Transaction security
 * Session based permission sets and security
 * Configure Enterprise Territory Management Permissions and Access
+
+### Formulas and validations
+* formulas are case sensitive
+* the standard order of applications apply when working with numbers
+* Use the Power of 1 to find distinct counts of objects in a report by creating a power of 1 formular field on 
+the object you want to get the distinct count and summarize the field in the report.
+* 
